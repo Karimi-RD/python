@@ -1,1 +1,1 @@
-# python
+My university Python exercises
